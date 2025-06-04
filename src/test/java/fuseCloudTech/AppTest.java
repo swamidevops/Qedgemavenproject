@@ -36,3 +36,7 @@ public class AppTest
         assertTrue( true );
     }
 }
+
+# This program prints Hello, world!
+
+print('Hello, world!')
